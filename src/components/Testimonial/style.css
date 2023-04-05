@@ -1,0 +1,47 @@
+p,
+h1,
+h2,
+h3 {
+	color: black;
+}
+
+.Testi {
+	height: 36px;
+	left: 32.36%;
+	right: 35.14%;
+	top: 1540px;
+
+	font-family: "Arial";
+	font-style: normal;
+	font-weight: 700;
+	font-size: 24px;
+	line-height: 36px;
+}
+
+.Berbagai {
+	width: 468px;
+	height: 20px;
+	left: 466px;
+	top: 1592px;
+
+	font-family: "Arial";
+	font-style: normal;
+	font-weight: 700;
+	font-size: 14px;
+	line-height: 20px;
+}
+
+.UserLogo {
+	width: 80px;
+	height: 80px;
+}
+
+ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+
+a {
+	all: unset;
+}

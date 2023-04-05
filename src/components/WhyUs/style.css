@@ -1,0 +1,18 @@
+.sub-heading-style {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 36px;
+    color: #000000;
+}
+
+
+
+.list-cards {
+    padding-top: 40px;
+}
+
+.container .card-whyus {
+    border-radius: 12px;
+    
+}

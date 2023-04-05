@@ -1,0 +1,27 @@
+body {
+    padding: 0;
+    margin: 0;
+    font-family: Helvetica, sans-serif;
+}
+
+/* NAVBAR */
+.nav-link {
+    font-size: 14px;
+    margin-left: 32px;
+}
+
+/* Color */
+.bg-light-purple {
+    background-color: #F1F3FF;
+}
+
+
+
+/* Tablet */
+@media screen and  (min-width: 768px){
+    .bg-light-purple {
+        background-color: red;
+
+    }
+
+}
